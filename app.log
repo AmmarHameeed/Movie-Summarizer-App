@@ -1,0 +1,200 @@
+2024-09-20 10:25:47,988 - app.utils.logger - INFO - Starting up the application
+2024-09-20 10:42:13,221 - app.utils.logger - INFO - Found subtitle for titanic: https://www.opensubtitles.org/en/search/sublanguageid-eng/idmovie-52293
+2024-09-20 10:42:14,410 - app.utils.logger - INFO - Successfully downloaded subtitle from https://www.opensubtitles.org/en/search/sublanguageid-eng/idmovie-52293
+2024-09-20 10:42:14,410 - app.utils.logger - INFO - Successfully processed subtitle text
+2024-09-20 10:42:32,684 - app.utils.logger - INFO - Successfully generated summary
+2024-09-20 10:43:53,033 - app.utils.logger - INFO - Found subtitle for cuckoo: https://www.opensubtitles.org/en/search/sublanguageid-eng/idmovie-1479332
+2024-09-20 10:43:53,545 - app.utils.logger - INFO - Successfully downloaded subtitle from https://www.opensubtitles.org/en/search/sublanguageid-eng/idmovie-1479332
+2024-09-20 10:43:53,547 - app.utils.logger - INFO - Successfully processed subtitle text
+2024-09-20 10:44:11,229 - app.utils.logger - INFO - Successfully generated summary
+2024-09-20 10:46:32,739 - app.utils.logger - INFO - Shutting down the application
+2024-09-20 10:46:38,098 - app.utils.logger - INFO - Starting up the application
+2024-09-20 10:46:43,625 - app.utils.logger - INFO - Found subtitle for cuckoo: https://www.opensubtitles.org/en/search/sublanguageid-eng/idmovie-1479332
+2024-09-20 10:46:43,626 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/search/sublanguageid-eng/idmovie-1479332
+2024-09-20 10:46:44,222 - app.utils.logger - INFO - Successfully downloaded subtitle from https://www.opensubtitles.org/en/search/sublanguageid-eng/idmovie-1479332
+2024-09-20 10:46:44,222 - app.utils.logger - INFO - Downloaded subtitle content (first 100 chars): <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-str
+2024-09-20 10:46:44,223 - app.utils.logger - INFO - Successfully processed subtitle text
+2024-09-20 10:46:44,223 - app.utils.logger - INFO - Processed text (first 100 chars): 
+2024-09-20 10:47:02,362 - app.utils.logger - INFO - Successfully generated summary
+2024-09-20 10:47:02,362 - app.utils.logger - INFO - Generated summary: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of the U.S. for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Please share your best photos of the United States with CNN iReporters.  Click here for a gallery of photos from across the globe.    The gallery will feature photos from around the world, with a selection of images from the United Arab Emirates. Click here to share your photos from the Middle East, Asia, Europe and beyond.  The Gallery will feature images from all over the world for the first time in the next few weeks. Visit the gallery next Tuesday for a special, never-before-seen gallery of photographs from the Arab world.  More than 1,000 images will be displayed at the Gallery of the Arab World at the World Economic Forum in Davos, Switzerland. The Gallery's first African-American gallery will be opened on Thursday, July 26.
+2024-09-20 10:48:26,474 - app.utils.logger - INFO - Shutting down the application
+2024-09-20 10:48:31,627 - app.utils.logger - INFO - Starting up the application
+2024-09-20 10:48:35,770 - app.utils.logger - INFO - Starting up the application
+2024-09-20 10:48:39,851 - app.utils.logger - INFO - Starting up the application
+2024-09-20 10:48:44,400 - app.utils.logger - INFO - Shutting down the application
+2024-09-20 10:48:48,795 - app.utils.logger - INFO - Starting up the application
+2024-09-20 10:49:02,767 - app.utils.logger - WARNING - No subtitles found for cuckoo
+2024-09-20 10:49:02,768 - app.utils.logger - ERROR - Value error: No subtitles found for cuckoo
+2024-09-20 10:49:18,405 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/9830927
+2024-09-20 10:49:19,374 - app.utils.logger - WARNING - Unexpected content type: application/zip
+2024-09-20 10:49:19,374 - app.utils.logger - ERROR - Value error: Unexpected content type: application/zip
+2024-09-21 00:14:11,105 - app.utils.logger - WARNING - No subtitles found for batman
+2024-09-21 00:14:11,105 - app.utils.logger - ERROR - Value error: No subtitles found for batman
+2024-09-21 00:14:18,929 - app.utils.logger - WARNING - No subtitles found for batman-begins
+2024-09-21 00:14:18,930 - app.utils.logger - ERROR - Value error: No subtitles found for batman-begins
+2024-09-21 01:04:12,609 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:04:18,771 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:04:41,312 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:04:46,928 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:04:53,953 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/10588578
+2024-09-21 01:04:55,144 - app.utils.logger - WARNING - Unexpected content type: application/zip
+2024-09-21 01:04:55,144 - app.utils.logger - ERROR - Value error: Unexpected content type: application/zip
+2024-09-21 01:05:48,371 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:06:34,400 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:06:44,667 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/10588578
+2024-09-21 01:06:46,020 - app.utils.logger - INFO - Downloaded and extracted subtitle content (first 100 chars): 1
+00:00:45,240 --> 00:00:47,040
+Rachel, let me see!
+
+2
+00:00:53,320 --> 00:00:54,960
+- Can I s
+2024-09-21 01:06:46,032 - app.utils.logger - INFO - Processed text (first 100 chars): 1 00:00:45,240 --> 00:00:47,040 Rachel, let me see! 2 00:00:53,320 --> 00:00:54,960 - Can I see? - F
+2024-09-21 01:06:46,032 - app.utils.logger - WARNING - Input text truncated to 1024 characters
+2024-09-21 01:07:06,608 - app.utils.logger - INFO - Successfully generated summary
+2024-09-21 01:07:06,609 - app.utils.logger - INFO - Generated summary: "Finders keepers" is a children's book about finding treasure in a garden. The book was written by the children's author Rachel Nussbaum. It is published by Simon & Schuster, which also publishes the book in hardback and e-book form. For more information on the book, visit www.simonandschuster.co.uk. For the full book, see http://www.simonschuster.com/finders-keepers-the-book-of-a-child-to-be-found-in-your-garden-and-you-can-see-it-for-free-on-it's-available-at-www.samaritans.com/. For more about the book and its author, visit the author's website at www.samarschitel.com. for more information and for the book's author, Ms Nussbaer, visit http:www.santacruzbook.com for more details.
+2024-09-21 01:07:36,489 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/10398230
+2024-09-21 01:07:37,274 - app.utils.logger - INFO - Downloaded and extracted subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 01:07:37,280 - app.utils.logger - INFO - Processed text (first 100 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,0
+2024-09-21 01:07:37,281 - app.utils.logger - WARNING - Input text truncated to 1024 characters
+2024-09-21 01:07:57,467 - app.utils.logger - INFO - Successfully generated summary
+2024-09-21 01:07:57,468 - app.utils.logger - INFO - Generated summary: "I'm gong up. Up out of the d" is the first of a series of songs about the death of a baby. "I'm not waing around to find out. Where you going?" is the last song in the series. The song was recorded in the early hours of the morning on October 1, 2009. It was recorded on the same day as the first episode of the series, October 2, 2009, at 1:02:32,387. It has been updated to include the latest information on the condition of the baby in the show, as well as some of the songs' lyrics. The full song can be heard on YouTube at http://www.cnn.com/soulmatestories/samaritans/2013/01/31/18/baby-crying-the-first-episode-of-a-childrens-show/cnn-soul-matters-babies-tune-1.
+2024-09-21 01:27:39,264 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:27:44,987 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:27:49,129 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:27:53,527 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:28:49,326 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/10398230
+2024-09-21 01:28:51,322 - app.utils.logger - INFO - Downloaded and extracted subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 01:28:51,332 - app.utils.logger - INFO - Processed text (first 500 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,099 --> 00:02:37,685 I told you stop it. 4 00:02:37,685 --> 00:02:39,269 Stop it, I said! 5 00:02:40,854 --> 00:02:42,439 Make him stop it. 6 00:02:42,439 --> 00:02:44,024 [ baby cries ] 7 00:02:47,736 --> 00:02:50,948 What happened, Alice? What happened? 8 00:02:51,448 --> 00:02:53,576 We're all going to die. 9 00:02:54,660 --> 00:02:57,831 Bring those pump lines in here now! 10 00:02:57,831 --> 0
+2024-09-21 01:28:51,332 - app.utils.logger - INFO - Processed text (first 100 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,0
+2024-09-21 01:36:19,441 - app.utils.logger - ERROR - Unexpected error: index out of range in self
+2024-09-21 01:38:45,950 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:38:51,063 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:39:00,350 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:39:05,460 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:39:07,579 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:39:11,970 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:39:15,896 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:39:26,908 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 01:39:30,321 - app.utils.logger - INFO - Starting up the application
+2024-09-21 01:39:35,117 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/10398230
+2024-09-21 01:39:36,043 - app.utils.logger - INFO - Downloaded subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 01:39:36,043 - app.utils.logger - INFO - Downloaded and extracted subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 01:39:36,051 - app.utils.logger - INFO - Processed text (first 500 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,099 --> 00:02:37,685 I told you stop it. 4 00:02:37,685 --> 00:02:39,269 Stop it, I said! 5 00:02:40,854 --> 00:02:42,439 Make him stop it. 6 00:02:42,439 --> 00:02:44,024 [ baby cries ] 7 00:02:47,736 --> 00:02:50,948 What happened, Alice? What happened? 8 00:02:51,448 --> 00:02:53,576 We're all going to die. 9 00:02:54,660 --> 00:02:57,831 Bring those pump lines in here now! 10 00:02:57,831 --> 0
+2024-09-21 01:39:36,051 - app.utils.logger - INFO - Processed text (first 100 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,0
+2024-09-21 12:52:09,808 - app.utils.logger - ERROR - Unexpected error: index out of range in self
+2024-09-21 12:52:23,230 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/10398230
+2024-09-21 12:52:24,205 - app.utils.logger - INFO - Downloaded subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 12:52:24,205 - app.utils.logger - INFO - Downloaded and extracted subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 12:52:24,212 - app.utils.logger - INFO - Processed text (first 500 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,099 --> 00:02:37,685 I told you stop it. 4 00:02:37,685 --> 00:02:39,269 Stop it, I said! 5 00:02:40,854 --> 00:02:42,439 Make him stop it. 6 00:02:42,439 --> 00:02:44,024 [ baby cries ] 7 00:02:47,736 --> 00:02:50,948 What happened, Alice? What happened? 8 00:02:51,448 --> 00:02:53,576 We're all going to die. 9 00:02:54,660 --> 00:02:57,831 Bring those pump lines in here now! 10 00:02:57,831 --> 0
+2024-09-21 12:52:24,213 - app.utils.logger - INFO - Processed text (first 100 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,0
+2024-09-21 13:00:19,373 - app.utils.logger - ERROR - Unexpected error: index out of range in self
+2024-09-21 18:24:02,389 - app.utils.logger - INFO - Found subtitle URL: https://www.opensubtitles.org/en/subtitleserve/sub/10398230
+2024-09-21 18:24:03,486 - app.utils.logger - INFO - Downloaded subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 18:24:03,486 - app.utils.logger - INFO - Downloaded and extracted subtitle content (first 100 chars): 1
+00:02:32,387 --> 00:02:34,514
+[ baby cries ]
+
+2
+00:02:34,514 --> 00:02:35,556
+Stop it!
+
+3
+2024-09-21 18:24:03,494 - app.utils.logger - INFO - Processed text (first 500 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,099 --> 00:02:37,685 I told you stop it. 4 00:02:37,685 --> 00:02:39,269 Stop it, I said! 5 00:02:40,854 --> 00:02:42,439 Make him stop it. 6 00:02:42,439 --> 00:02:44,024 [ baby cries ] 7 00:02:47,736 --> 00:02:50,948 What happened, Alice? What happened? 8 00:02:51,448 --> 00:02:53,576 We're all going to die. 9 00:02:54,660 --> 00:02:57,831 Bring those pump lines in here now! 10 00:02:57,831 --> 0
+2024-09-21 18:24:03,494 - app.utils.logger - INFO - Processed text (first 100 chars): 1 00:02:32,387 --> 00:02:34,514 [ baby cries ] 2 00:02:34,514 --> 00:02:35,556 Stop it! 3 00:02:36,0
+2024-09-21 18:32:21,143 - app.utils.logger - ERROR - Unexpected error: index out of range in self
+2024-09-21 21:05:04,588 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:05:10,170 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:06:58,431 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:07:04,765 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:07:32,036 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:07:36,424 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:08:41,877 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:08:47,305 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:08:58,794 - app.utils.logger - ERROR - Error searching for subtitles: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=titanic+english+subtitles+srt
+2024-09-21 21:08:58,794 - app.utils.logger - ERROR - Value error: Error searching for subtitles: 403 Client Error: Forbidden for url: https://html.duckduckgo.com/html/?q=titanic+english+subtitles+srt
+2024-09-21 21:10:45,048 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:10:50,887 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:10:56,082 - app.utils.logger - WARNING - No SRT file found for titanic
+2024-09-21 21:10:56,082 - app.utils.logger - ERROR - Value error: No subtitles found for titanic
+2024-09-21 21:12:19,446 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:12:25,078 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:12:35,787 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:12:40,008 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:12:40,879 - app.utils.logger - WARNING - No SRT file found for titanic
+2024-09-21 21:12:40,879 - app.utils.logger - ERROR - Value error: No subtitles found for titanic
+2024-09-21 21:17:15,369 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:17:19,991 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:17:22,416 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:17:26,923 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:34:43,954 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:34:50,110 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:35:10,115 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:35:18,324 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:35:29,727 - app.utils.logger - WARNING - No IMDb ID found for titanic
+2024-09-21 21:35:29,728 - app.utils.logger - ERROR - Value error: Could not find IMDb ID for titanic
+2024-09-21 21:36:05,682 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 21:36:10,222 - app.utils.logger - INFO - Starting up the application
+2024-09-21 21:44:59,326 - app.utils.logger - INFO - Shutting down the application
+2024-09-21 22:08:38,634 - app.utils.logger - INFO - Generated summary with 464 words
+2024-09-21 22:53:26,015 - app.utils.logger - INFO - Generated summary with 407 words
+2024-09-22 00:01:31,581 - app.utils.logger - INFO - Generated summary with 547 words
+2024-09-23 16:30:36,832 - app.utils.logger - INFO - Generated summary with 582 words
+2024-09-23 16:39:39,719 - app.utils.logger - INFO - Generated summary with 582 words
+2024-09-23 16:47:53,109 - app.utils.logger - INFO - Generated summary with 547 words
